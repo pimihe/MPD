@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Name                 Pierce hepburn-->
+<!--Student ID           S1711876-->
+<!--Programme of Study   Computing-->
+<resources>
+    <color name="colorPrimary">#3d53b3</color>
+    <color name="colorPrimaryDark">#3d53b3</color>
+    <color name="colorAccent">#fe4480</color>
+    <color name="white">#fff</color>
+    <color name="backTextColor">#999</color>
+    <color name="lightBarColor">#ddd</color>
+</resources>

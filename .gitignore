@@ -1,0 +1,13 @@
+*.iml
+/Earthquakes/.gradle
+/Earthquakes/local.properties
+/Earthquakes/.idea/caches
+/Earthquakes/.idea/libraries
+/Earthquakes/.idea/modules.xml
+/Earthquakes/.idea/workspace.xml
+/Earthquakes/.idea/navEditor.xml
+/Earthquakes/.idea/assetWizardSettings.xml
+/Earthquakes/.DS_Store
+/Earthquakes/build
+/Earthquakes/captures
+/Earthquakes/.externalNativeBuild

@@ -1,0 +1,55 @@
+<!--Name                 Pierce hepburn-->
+<!--Student ID           S1711876-->
+<!--Programme of Study   Computing-->
+<resources>
+    <string name="app_name">S1711876 Quakes</string>
+
+    <string name="magnitude">Magnitude</string>
+    <string name="depth">Depth</string>
+    <string name="km">km</string>
+    <string name="and">and</string>
+    <string name="m">m</string>
+    <string name="date">Date</string>
+    <string name="sort_by_the">sort by the</string>
+    <string name="in">in</string>
+    <string name="order">order</string>
+    <string name="apply">Apply</string>
+    <string name="clear">Clear</string>
+    <string name="ld_mp_pnt">Loading map point</string>
+    <string name="of">of</string>
+    <string name="KM">KM</string>
+    <string name="M">M</string>
+
+    <string name="register">Register</string>
+    <string name="location">Location</string>
+    <string name="graph">Graph</string>
+    <string name="filter">Filter</string>
+    <string name="back">Back</string>
+
+    <string-array name="number_comparator_options">
+        <item>equal to</item>
+        <item>greater than</item>
+        <item>less than</item>
+        <item>between</item>
+    </string-array>
+    <string-array name="date_comparator_options">
+        <item>on</item>
+        <item>before</item>
+        <item>after</item>
+        <item>between</item>
+    </string-array>
+    <string-array name="sort_by_options">
+        <item>date</item>
+        <item>most northerly</item>
+        <item>most easterly</item>
+        <item>magnitude</item>
+        <item>depth</item>
+        <item>distance from</item>
+        <item>distance from me</item>
+    </string-array>
+    <string-array name="asc_desc_options">
+        <item>descending</item>
+        <item>ascending</item>
+    </string-array>
+
+</resources>
